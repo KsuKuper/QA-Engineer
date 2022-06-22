@@ -1,0 +1,32 @@
+When I came on the IT course I was shocked that I know nothing.
+At those moments I have been thinking and asking myself: “Do you really need this?” 
+But I have tasted this one piece of cake of knowledge and I have done the first step towards something new already. If you could know me a little bit better you understand that I never give up)
+I had already planned my dream and it will definitely come true.
+When I went through the half of the course I understood that I need more practice but this course wasn’t giving me it.
+That’s why I have found one more course. Till yesterday I have been studying on two courses at the same time.
+In that time I understood that people have so much potencial from the nature inside themself and on more time I had proven that I have also for myself a wide range of organizational skills, including problem solving,  combining life, work and self-development together, excellent communications skills, delegating and allocating tasks, team working and IT skills.
+Everything what we need is to have a big desire to get to know something new.
+These two courses let me complete empty spaces in my head and put the picture together.
+When there was only one month left till the end of the course, a teacher divided us into subgroups and gave us a project for testing. During this time we have been communicating through online meetings. 
+We were discussing all parts of a website. We have decomposed the website on the subsections so that each of us was writing a testing documentation such as check-lists, test-cases and was creating them in TesTrail program.
+While looking for bugs during the testing process we were also creating bugs reports in Jira program.
+All our time was decomposed on the sprints or iterations which let us control the process of testing. We were writing a test result report in the end of every sprint.
+While we tested the web-site we applied the theoretical knowledge gained in practice.
+Testing is the process of attempting to find discrepancies between the program and its functional requirements, the goal which is to make sure that all functions of the website applications work correctly.
+Manual functional testing – is considered as the main method of the application testing.
+Functional testing is a type of testing which verifies that each function of the software application operates in conformance with the requirement specification.
+GUI Testing is performed by interacting with the software under test via the graphical user interface. Verifies that user interface meets design guidelines, ensures UI controls, input fields work as expected
+Compatibility Testing - determines whether the product operates correctly in configurations with various operating systems, browsers.
+Localization Testing – performed to verify the quality of a product for a specific culture or locale.
+Usability Testing – performed to determine whether a certain product is convenient for its intended use.
+We had also used so type of testing as positive and negative testing, monkey and exploratory testing, and Test Case based testing.
+During our process of testing we have been implementing such test levels:
+Smoke Test is performed to quickly assess the readiness of the product for further more deep and thorough testing. It includes testing the web-site applications major functions on the one most often used.
+Critical Path Test will be performed after Smoke Test is passed. The goal of the Critical Path Test is to find bugs that could affect the major functionality of the application that is most important for the product users. Critical Path 
+Test will be performed manually according to Test Cases document on all platforms to be certified. 
+The Extended Test’s goal to find bugs related to the non-typical but still possible and likely usage scenarios (e.g. entering the incorrect data into the fields, boundary testing and so on). Extended Test will be performed both according to test cases and using ad hoc testing scenarios.
+The ending of our common work was a presentation of the project. We were creating a presentation in one style and our speech about the project step by step, each by other what let us show the work in one team.
+We got an excellent result. I am proud of everyone.
+
+Now I’m looking for a role which would adequately meet my skills and qualifications. I’m ready for new challenges. And what is more I’m highly interested in a career which will provide me professional development, background opportunities and access to the best training facilities.
+
